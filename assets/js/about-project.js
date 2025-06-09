@@ -20,7 +20,7 @@ aboutProject.onclick = () => {
             </main>
             <div class="line_dividerX"></div>
             <footer class="form_footer" id="about_project_footer">
-                <p id="last_update"></p>
+                <p id=""></p>
                 <a href="https://github.com/adityarajofficial0096?tab=repositories" target="_blank" rel="noopener noreferrer">Visit Github for more info.</a>
             </footer>
         </div>
